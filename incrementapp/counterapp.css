@@ -1,0 +1,47 @@
+body{
+    /* background-image: url(1673425.webp); */
+    background-image: url(wallpaperflare.com_wallpaper.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(246, 243, 243);
+    text-align: center;
+    height: 100vh;
+    font-family:'Lucida Sans', Geneva, Verdana, sans-serif;
+}
+
+#container{
+          width: 80%;
+          margin: auto;
+          background-color: rgba(21, 6, 100, 0.885);
+          height: 70vh;
+          border: 5px solid rgb(246, 243, 243);
+          border-radius:20px;
+}
+h1{
+    /* background-color: aliceblue; */
+    
+    /* display:inline; */
+    margin:20px;
+    /* background-color: rgba(0, 0, 0, 0.247); */
+    color: rgb(247, 251, 251);
+}
+
+#counter{
+    font-weight: 900;
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: rgb(124, 242, 212);
+}
+
+#saver{
+    font-weight: 900;
+    padding: 10px 45px;
+    border-radius: 10px;
+    background-color: rgb(217, 130, 130);
+}
+
+#save-el{
+    font-size: large;
+    font-weight: 700;
+    color: rgb(248, 245, 245);
+}
